@@ -10,7 +10,7 @@ An interactive dashboard to visualize diversity among bacterial species, living 
 - Software: HTML/CSS, JavaScript, VS Code 1.49.1, BootStrap 3.3.7, D3, Plotly 4.11
 
 ### Results
-The interactive dashboard was deployed as a webpage and is accessible at [live dashboard]().
+The interactive dashboard was deployed as a webpage and is accessible at [live dashboard]( https://devtrav.github.io/Belly_Button/).
 ![dashboard_gif](static/images/belly_button.gif)
 
 
